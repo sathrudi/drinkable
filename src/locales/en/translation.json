@@ -108,7 +108,8 @@
         "contemporary-classics": "Contemporary Classics",
         "new-era-drinks": "New Era Drinks",
         "halloween": "Halloween",
-        "punch": "Punch"
+        "punch": "Punch",
+        "christmas": "Christmas"
     },
     "user": {
         "created-data": "Manage",
@@ -159,5 +160,11 @@
     },
     "new": "New",
     "halloween-title": "Halloween!",
-    "halloween-subtitle": "Explore halloween themed cocktails"
+    "halloween-subtitle": "Explore halloween themed cocktails",
+    "remove-from-bar": "Remove from Bar",
+    "add-to-bar": "Add to Bar",
+    "copy-name-to-clipboard": "Copy name to Clipboard",
+    "copied-to-clipboard": "Copied to Clipboard",
+    "add-to-favorites": "Add to Favorites",
+    "remove-from-favorites": "Remove from Favorites"
 }
